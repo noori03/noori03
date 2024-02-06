@@ -1,6 +1,7 @@
 # HELLO WORLD I'm NOOR 
-## Fortunetly an Engineer
-## Love discovering and solving problems:)
+ Fortunetly an Engineer
+ </br>
+ Love discovering and solving problems:)
 
 <!--
 **noori03/noori03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
