@@ -1,5 +1,5 @@
 # HELLO WORLD I'm NOOR 
- Fortunetly an Engineer
+ fortunately an Engineer
  </br>
  Love discovering and solving problems:)
 
